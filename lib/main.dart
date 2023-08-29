@@ -111,7 +111,6 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text(
               '2141720106',
-              style: Theme.of(context).textTheme.headlineMedium,
             ),
           ],
         ),
